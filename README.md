@@ -66,3 +66,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 "# chatsilo_new_admin" 
 "# azure" 
 "# azure" 
+"# laravel-azure" 
